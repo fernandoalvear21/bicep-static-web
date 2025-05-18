@@ -1,0 +1,7 @@
+#Archivos de ambientes
+.env
+.vscode/
+*.log
+*.tmp
+*.pem
+*.key
