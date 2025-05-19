@@ -5,7 +5,6 @@ Este proyecto implementa una solución de almacenamiento en Azure para FinTech S
 - Alojamiento de contenido web
 - Almacenamiento de objetos para videos
 ## Estructura del proyecto
-/
 ├── .gitignore                # Archivos ignorados por Git
 ├── README.md                 # Este archivo de documentación
 ├── deploy-bicep.sh           # Script para desplegar la infraestructura
