@@ -5,6 +5,8 @@ Este proyecto implementa una solución de almacenamiento en Azure para FinTech S
 - Alojamiento de contenido web
 - Almacenamiento de objetos para videos
 ## Estructura del proyecto
+
+```plaintext
 ├── .gitignore                # Archivos ignorados por Git
 ├── README.md                 # Este archivo de documentación
 ├── deploy-bicep.sh           # Script para desplegar la infraestructura
@@ -16,9 +18,10 @@ Este proyecto implementa una solución de almacenamiento en Azure para FinTech S
 │   └── video/                # Directorio para archivos multimedia
 │       └── corporate.mp4     # Video corporativo
 └── upload-content.sh         # Script para subir contenido web
+```
 
 ## Requisitos previos
-- Aure CLI
+- Azure CLI
 - Suscripción a Azure
 - Bash o terminal compatible con Bash
 
@@ -61,4 +64,4 @@ Para actualizar el contenido web, simplemente modifica los archivos en el direct
 Si deseas contribuir a este proyecto, por favor crea un pull request con tus cambios.
 
 # Autor
-- The IT Guy 
+- The IT Guy
